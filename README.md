@@ -156,3 +156,27 @@ When you procure products and services for a government agency, you have the res
 >The department’s multifunction machine has stopped working and cannot be repaired. You have the authority to procure replacement equipment locally. As an employee of a Federal agency, you must make sure the new multifunction machine is the most conformant device available today that meets your business needs.
 
 >Your agency wants to procure mobile devices for field staff so they can submit inspection reports quickly and easily. You must make sure that the mobile devices, along with the software loaded on them, are the most conformant products available today that meet your business needs.
+
+---
+### Use of ICT
+In some cases ICT is used by agencies, but not actually procured by them. Products and services of this type are also covered by Section 508. Below are some examples of ICT use needs.
+>An open source content management system (CMS) is used by a small agency to maintain their intranet site. The software is free, but since government employees use the software to accomplish their job, the CMS must be Section 508 conformant.
+
+>An agency’s staff advertises upcoming seminars and job fairs on a social networking site. The features of the site used by staff to enter and post information must be usable by persons with disabilities, or a Section 508-conformant alternative must be provided in addition to the social networking site.
+
+---
+---
+### Lesson Summary
+You’ve reached the end of this lesson. In review, you learned that:
+
+Section 508 of the Rehabilitation Act of 1973 as amended was enacted to remove barriers in ICT, make opportunities available for persons with disabilities, and encourage the development of technologies that help achieve these goals.
+Section 508 Standards apply to ICT products and services.
+Federal agencies are subject to Section 508 Standards during four specific activities—“development, procurement, maintenance, and use” of ICT.
+You should now be able to:
+
+- Define Section 508
+- Define Information and Communication Technology (ICT)
+- Understand the scope of the Section 508 Standards
+- List the specific activities covered
+
+
