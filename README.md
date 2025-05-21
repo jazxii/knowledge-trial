@@ -1,7 +1,7 @@
 # knowledge-trial
 
-#Section 508 - Accessibility Testing 
-##Welcome to Section 508 What is it and Why it is Important to You?
+# Section 508 - Accessibility Testing 
+## Welcome to Section 508 What is it and Why it is Important to You?
 When it comes to making sure persons with disabilities have equal access to Information and Communication Technology (ICT), everyone can make a difference.
 
 When the Federal government "develops, procures, maintains, or uses" ICT, it must meet the Revised Section 508 Standards. Inaccessible ICT prevents employees and customers with disabilities from doing their jobs, or interacting with the Federal government. Conformance with these standards is mandated by Section 508 of the Rehabilitation Act.
