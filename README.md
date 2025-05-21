@@ -90,3 +90,69 @@ Functional performance criteria support the needs of users with:
 >Functional performance criteria are used to evaluate the accessibility of ICT when clearly defined requirements are either not available, cannot be developed in a timely manner, fail to adequately assess accessibility, or when the technical requirements outlined in Chapter 4: Hardware or Chapter 5: Software do not address all of the features of the ICT.
 
 The intent of the standard is to never prevent the technology industry from offering innovative solutions that might allow for equivalent or even greater accessibility. This is referred to as equivalent facilitation. Functional performance criteria can be used to evaluate accessibility for innovative products when existing technical requirements do not apply.
+
+---
+### Equivalent Facilitation
+The use of an alternate design or technology that results in substantially equivalent of greater accessibility and usability by individuals with disabilities than would be provided by conformance to one of more of the requirements in Chapter 4: Hardware and Chapter 5: Software is permitted.
+
+The Functional Performance Criteria in Chapter 3 shall be used to determine whether substantially equivalent or greater accessibility and usability is provided to individuals with disabilities.
+
+---
+### Broad Application of Web Content Accessibility Guidelines 2.0
+The Revised 508 Standards incorporate by reference the Web Content Accessibility Guidelines (WCAG) 2.0, a globally-recognized and technologically-neutral set of accessibility guidelines for web content.
+
+For Section 508-covered ICT, all covered web and non-web content and software (such as websites, intranets, word processing documents, PDF documents, project management software, etc.) is required, with a few specific exceptions, to conform to WCAG 2.0’s Level A and Level AA Success Criteria and Conformance Requirements.
+
+By applying a single set of requirements to websites, electronic documents, and software, the revised requirements adapt the existing Section 508 Standards to reflect the newer multifunction technologies (e.g., smartphones that have telecommunications functions, video cameras, and computer-like data processing capabilities) and address the accessibility challenges that these technologies pose for individuals with disabilities.
+
+---
+### Delineation of Covered Electronic “Content”
+The Revised Section 508 Standards specify that all types of public-facing content, as well as nine categories of non-public-facing content that communicate agency official business, have to be accessible. “Content,” as defined in the standards, encompasses all forms of electronic information and data.
+
+The existing standards required Federal agencies to make electronic information and data accessible but did not delineate clearly the scope of covered information and data. As a result, document accessibility has been inconsistent across Federal agencies.
+
+By focusing on public-facing content and certain types of agency official communications that are not public facing, the revised requirements bring needed clarity to the scope of electronic content covered by the Section 508 Standards and, thereby, help Federal agencies make electronic content more consistently accessible.
+
+---
+### Interoperability Requirements
+The Section 508 Standards provide specific requirements that detail how operating systems, software development toolkits, and software applications should interact with assistive technology (AT) – that is, hardware or software that increases or maintains functional capabilities of individuals with disabilities (e.g., screen magnifiers or refreshable braille displays). However, the Section 508 standards themselves do not apply to AT products and services.
+
+---
+### What ICT Activities are Covered?
+By now you should have a good understanding of what ICT is and the types of ICT that are covered under Section 508. The standards also detail when they apply. Federal agencies are subject to Section 508 Standards during four specific ICT-related activities:
+
+- Development
+- Procurement
+- Maintenance
+- Use
+Even though you may not be involved in any of these activities right now, it’s important to understand what they are and how Section 508 applies to them. The information will be useful if your current role changes or if you move to a position where you’re involved in these types of activities on behalf of the government.
+
+---
+### Development of ICT
+When a new product or service is being created, it is the responsibility of everyone involved to address Section 508 Standards during the planning, design, and development processes. The entire team (including project managers, user interface designers, programmers, developers, and possibly instructional designers) is responsible for developing a product that meets the Section 508 Standards.
+
+Development can take many shapes, such as:
+
+- Software
+- Websites
+- Hardware
+- Documents
+
+---
+### ICT Accessibility Examples
+
+>An agency wants to provide customers with a way to access personal medical information from mobile and desktop software. A new website with applications that provide personal privacy is built by a contracted company. Since the new website and applications are ICT provided by a Federal agency, they must meet the Revised Section 508 Standards.
+
+>A supervisor sends his assistant a financial report in PDF format and asks him to distribute it to the entire department. Because this document supports the agency's mission, the assistant should determine if the document is accessible before sending it out as an email attachment.
+
+>A national park owned and managed by the Federal government creates new information kiosks for several locations along a scenic walking path. The kiosks are used to point out special attractions along the way. Since the park is owned by the Federal government and the new kiosks are considered ICT, they must meet the Section 508 Standards.
+
+---
+### Procurement of ICT
+When you procure products and services for a government agency, you have the responsibility to procure ICT that meets the Section 508 Standards. Below are some examples of ICT procurement needs.
+
+>You have been asked to procure a new help desk system for your agency. Because that help desk system will be used by employees of a Federal agency, you must procure the most compliant product available that meets your agency’s business needs.
+
+>The department’s multifunction machine has stopped working and cannot be repaired. You have the authority to procure replacement equipment locally. As an employee of a Federal agency, you must make sure the new multifunction machine is the most conformant device available today that meets your business needs.
+
+>Your agency wants to procure mobile devices for field staff so they can submit inspection reports quickly and easily. You must make sure that the mobile devices, along with the software loaded on them, are the most conformant products available today that meet your business needs.
